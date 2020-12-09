@@ -1,12 +1,12 @@
-# LAB - Class xx
+# LAB - Class 02
 
-## Project: Project Name Here
+## Project: Basic Express Server
 
-### Author: Student/Group Name
+### Author: Dina Ayoub
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [ci/cd](https://github.com/Dina-401-Advanced-Javascript/basic-express-server/actions/new) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 
 ### Setup
@@ -23,7 +23,7 @@
 
 #### Tests
 
-- `npm test` 
+- `npm test`
 - Tests will check:
   - 404 on a bad route (anything other than /person)
   - 404 on a bad method (anything other than get /person)
