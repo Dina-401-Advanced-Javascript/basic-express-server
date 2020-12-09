@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [ci/cd](https://github.com/Dina-401-Advanced-Javascript/basic-express-server/actions/new) (GitHub Actions)
-- [back-end server url](https://dina-basic-express-server.herokuapp.com/)
+- [back-end server url on heroku](https://dina-basic-express-server.herokuapp.com/)
 
 ### Setup
 
