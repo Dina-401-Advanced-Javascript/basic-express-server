@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [ci/cd](https://github.com/Dina-401-Advanced-Javascript/basic-express-server/actions/new) (GitHub Actions)
-- [back-end server url](https://dina-basic-express-server.herokuapp.com/) (when applicable)
+- [back-end server url](https://dina-basic-express-server.herokuapp.com/)
 
 ### Setup
 
@@ -33,4 +33,4 @@
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![UML Diagram](assets/uml.png)
