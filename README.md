@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/Dina-401-Advanced-Javascript/basic-express-server/actions/new) (GitHub Actions)
-- [back-end server url on heroku ](https://dina-basic-express-server.herokuapp.com/)
+- [ci/cd](https://github.com/Dina-401-Advanced-Javascript/basic-express-server/actions) (GitHub Actions)
+- [back-end server url on heroku](https://dina-basic-express-server.herokuapp.com/)
 
 ### Setup
 
@@ -19,7 +19,11 @@
 
 - `npm start`
 
-#### How to use your library (where applicable)
+#### How to use your lib
+
+- go to the heroku dployment and add /person?name=dina at the end to see the API working.
+- go to just /person to get an internal server error triggered by our validator
+- go to / to see a not found error triggered by our error handling for unknown routes.
 
 #### Tests
 
