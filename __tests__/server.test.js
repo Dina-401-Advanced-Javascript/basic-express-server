@@ -43,12 +43,13 @@ describe('web server tests', () => {
       //.catch(err => console.error(err));
   })
 
-  it('Should respond with the correct name given in the query string', () => {
-    return mockRequest
+  it('Should respond with the correct name given in the query string', async () => {
+    return await mockRequest
       .get('/person?name=dina')
       .then(result => {
         expect(result.body).toEqual({ name : 'dina' });
       })
+      //.catch(console.error);
       //.catch(err => console.error(err));
   })
 });
